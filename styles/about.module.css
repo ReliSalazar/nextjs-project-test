@@ -1,0 +1,16 @@
+.p2 {
+  padding: 2rem;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.counterContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
